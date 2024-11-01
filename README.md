@@ -43,7 +43,7 @@ This repository contains the source code for a construction company website desi
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/construction-website.git
+   git clone https://github.com/Dariyakhussainova/WEB00.git
    ```
 2. Navigate to the project folder:
    ```bash
